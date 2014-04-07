@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.csproj", "{9349D990-0E0D-432E-A076-ECFBE8E9EADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9349D990-0E0D-432E-A076-ECFBE8E9EADD}.Debug|x86.ActiveCfg = Debug|x86
+		{9349D990-0E0D-432E-A076-ECFBE8E9EADD}.Debug|x86.Build.0 = Debug|x86
+		{9349D990-0E0D-432E-A076-ECFBE8E9EADD}.Release|x86.ActiveCfg = Release|x86
+		{9349D990-0E0D-432E-A076-ECFBE8E9EADD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
